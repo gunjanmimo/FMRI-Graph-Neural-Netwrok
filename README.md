@@ -1,1 +1,1 @@
-# FMRI-Graph-Neural-Netwrok
+# FMRI Graph Neural Netwrok
